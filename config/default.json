@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://mictin3:mictin3@devconnector-rvizr.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://mictin3:mictin3@devconnector-rvizr.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
