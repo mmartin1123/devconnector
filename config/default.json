@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://mictin3:mictin3@devconnector-rvizr.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "3cdc0b3db164269b024c",
+  "githubSecret": "85f081a924e9004e4b6f8e4ef5fbfdf2b45f914c"
 }
