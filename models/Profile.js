@@ -63,7 +63,7 @@ const ProfileSchema = new mongoose.Schema({
         type: String,
         required: true,
       },
-      defgree: {
+      degree: {
         type: String,
         required: true,
       },
